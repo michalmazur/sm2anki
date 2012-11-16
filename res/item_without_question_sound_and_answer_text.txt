@@ -1,0 +1,61 @@
+Begin Element #12
+  Source=D:\SM\SYSTEMS\Math
+  Parent=0
+  ParentTitle=[1] Multiplication
+  Begin ElementInfo #12
+    Title=2 * 3
+    Type=Item
+    Status=Pending
+    FirstGrade=6
+    Ordinal=6.000000
+    Repetitions=0
+    Lapses=0
+    Interval=0
+    LastRepetition=30.10.12
+    AFactor=3.000
+    UFactor=0.000
+    RepetitionHistory=0
+    ForgettingIndex=10
+  End ElementInfo #12
+  ElementColor=-16777211
+  AutoPlay=1
+  BackgroundImage=
+  BackgroundFile=
+  BackgroundStyle=Tile
+  Scaled=1
+  ReadPointComponent=0
+  ReadPointStart=0
+  ReadPointLength=0
+  ReadPointScrollTop=0
+  Hyperlink=0
+  ComponentNo=2
+  Begin Component #1
+  Type=Sound
+  Cors=(4261,8121,1605,1376)
+  DisplayAt=215
+  PlayAt=208
+  Hyperlink=0
+  SoundName=6
+  SoundFile=D:\SM\SYSTEMS\Math\elements\7.wma
+  Text=6
+  Center=0
+  Color=-1
+  StartPosition=0
+EndPosition=0
+Panel=4
+Continuous=0
+Transparent=0
+End Component #1
+Begin Component #2
+  Type=Text
+  Cors=(6108,336,3679,4564)
+  DisplayAt=255
+  Hyperlink=0
+  Text=2 * 3
+  Center=0
+  Color=-1
+  ClickPlay=0
+  TestElement=0
+  Transparent=0
+End Component #2
+End Element #12
